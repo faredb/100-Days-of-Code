@@ -11,6 +11,19 @@ Welcome to my GitHub where I will log my journey through 100 Days Of Coding. I h
 
 **Today's Progress**: Completed the first two modules of Resposive Web design Certification - Basic HTML & HTML5 and Basic CSS.
 
-**Thoughts:** Progressed through Basic HTML/HTML5 and CCS as I have previous experience with HTML and CSS2. I particularly enjoyed Classes vs IDs and CSS variables.  
+**Thoughts:** Progressed through Basic HTML/HTML5 and CCS as I have previous experience with HTML and CSS2. I particularly enjoyed Classes vs IDs and CSS variables.
 
 **Link to course:** [FreeCodeCamp](http://www.freecodecamp.org/learn)
+
+### Day 2: 24 April 2020
+
+##### Installation of Visual Studio Code and GitHub intergration
+
+**Today's Progress**: Installation of Git and Visual Studio Code with GitHub intergration. Researched and installed recommended extensions and tested with first commit to GitHub with this Day 2 update.
+
+**Thoughts:** Like the Live Server extension. Removed bootstrap extension as it cluttered the intellisense, will reinstall when needed. Work flow is coming on now.
+
+**Links:**
+[Git](https://git-scm.com/)
+[GitHub](https://github.com/faredb/100-Days-of-Code)
+[Visual Studio Code](https://code.visualstudio.com/)
