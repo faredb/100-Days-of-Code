@@ -27,3 +27,13 @@ Welcome to my GitHub where I will log my journey through 100 Days Of Coding. I h
 [Git](https://git-scm.com/)
 [GitHub](https://github.com/faredb/100-Days-of-Code)
 [Visual Studio Code](https://code.visualstudio.com/)
+
+### Day 3: 25 April 2020
+
+##### Resposive Web design Certification (300 hrs) @ FreeCodeCamp
+
+**Today's Progress**: Currently working through Applied Visual Design.
+
+**Thoughts:** Progressed through basic element adjustments and basic tags. Looking forward to working through the animation and transform properties today.
+
+**Link to course:** [FreeCodeCamp](http://www.freecodecamp.org/learn)
