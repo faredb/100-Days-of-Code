@@ -37,3 +37,14 @@ Welcome to my GitHub where I will log my journey through 100 Days Of Coding. I h
 **Thoughts:** Progressed through basic element adjustments and basic tags. Looking forward to working through the animation and transform properties today.
 
 **Link to course:** [FreeCodeCamp](http://www.freecodecamp.org/learn)
+
+### Day 4: 26 April 2020
+
+##### Resposive Web design Certification (300 hrs) @ FreeCodeCamp
+
+**Today's Progress**: Finished Applied Visual Design Module.
+
+**Thoughts:** I enjoyed this module a lot more than I thought I would. Pleasantly surprised by a mixture of how much more fun you can have with CCS3 compared to CSS2 (heart shape made purely out of CSS) and the CSS animations particularly the button hover over gradual colour change.
+Was thinking about starting a page in GitHub Pages to practice on as I work through the modules but now after having a look at the project at the end of the course, I will wait and practice on those.
+
+**Link to course:** [FreeCodeCamp](http://www.freecodecamp.org/learn)
