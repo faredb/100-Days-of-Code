@@ -48,3 +48,15 @@ Welcome to my GitHub where I will log my journey through 100 Days Of Coding. I h
 Was thinking about starting a page in GitHub Pages to practice on as I work through the modules but now after having a look at the project at the end of the course, I will wait and practice on those.
 
 **Link to course:** [FreeCodeCamp](http://www.freecodecamp.org/learn)
+
+### Day 5: 27 April 2020
+
+##### Resposive Web design Certification (300 hrs) @ FreeCodeCamp
+
+**Today's Progress**: Applied Accessibility, Responsive Web Design Principles, Flexbox and Grid completed.
+
+**Thoughts:** What a long day! Applied Accessibility was interesting and covered lots from screen reader navigation to avoiding colourblindness issues with colour selection. before today I thought accessibility was mostly about alt tagging images and file names, now I know there are multiple disabilities to consider. Responsible Design Principles included a best practice of displaying images half size to allow for Apple Retina Displays, cant be right, I'll look into this. I found grid easier than flex to get my head around but have read that Flex has more support, we'll see how I feel once I'm coding the projects.
+
+Looking forward to starting the projects tomorrow as I've seen they also consist of Agile user stories (product requirements) so the project will feel like real world work.
+
+**Link to course:** [FreeCodeCamp](http://www.freecodecamp.org/learn)
