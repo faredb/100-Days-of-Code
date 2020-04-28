@@ -67,7 +67,7 @@ Looking forward to starting the projects tomorrow as I've seen they also consist
 
 **Today's Progress**: Completed the first challenge, a tribute page to Ernest Ranglin.
 
-**Thoughts:** The user stories were quite easy and I breezed through them in a few minutes giving me a pass. I then went over to CS Code and recreated the challenge only this time designed the page with what I had in mind- a large background picture of ER with a text box floating on the image. Enjoyed that.
+**Thoughts:** The user stories were quite easy and I breezed through them in a few minutes giving me a pass. I then went over to VS Code and recreated the challenge only this time designed the page with what I had in mind- a large background picture of ER with a text box floating on the image. Enjoyed that.
 
 I saw Ernest Ranglin perform at Ronnie Scotts London 2009
 
