@@ -60,3 +60,15 @@ Was thinking about starting a page in GitHub Pages to practice on as I work thro
 Looking forward to starting the projects tomorrow as I've seen they also consist of Agile user stories (product requirements) so the project will feel like real world work.
 
 **Link to course:** [FreeCodeCamp](http://www.freecodecamp.org/learn)
+
+### Day 6: 28 April 2020
+
+##### Resposive Web design Certification (300 hrs) @ FreeCodeCamp
+
+**Today's Progress**: Completed the first challenge, a tribute page to Ernest Ranglin.
+
+**Thoughts:** The user stories were quite easy and I breezed through them in a few minutes giving me a pass. I then went over to CS Code and recreated the challenge only this time designed the page with what I had in mind- a large background picture of ER with a text box floating on the image. Enjoyed that.
+
+I saw Ernest Ranglin perform at Ronnie Scotts London 2009
+
+**Link to course:** [FreeCodeCamp](http://www.freecodecamp.org/learn)

@@ -1,0 +1,44 @@
+body{
+  text-align:justify; 
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+tribute-info{
+  max-width: 99%
+  Display: block;
+  margin: auto;
+  padding: 20px;
+  
+}
+img{
+  max-width: 99%;
+  display:block;
+  margin:auto;
+}
+.button{
+  
+    background-color: red;
+    margin: 0;
+    Padding:10px;
+    
+}
+img-div{
+    position: relative;
+}
+.image{
+ position: relative;   
+ display: inline-block;
+ 
+}
+.image .text{
+position: absolute;
+        z-index: 999;
+        margin: 20px 20px;
+        left: 0%;
+        right: 30%;
+        top: 0%; /* Adjust this value to move the positioned div up and down */
+        text-align: justify;
+        width: 35%; /* Set the width of the positioned div */
+        padding: 20px;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+       
+}
