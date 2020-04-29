@@ -72,3 +72,13 @@ Looking forward to starting the projects tomorrow as I've seen they also consist
 I saw Ernest Ranglin perform at Ronnie Scotts London 2009
 
 **Link to course:** [FreeCodeCamp](http://www.freecodecamp.org/learn)
+
+### Day 7: 29 April 2020
+
+##### Daughter's Birthday! Resposive Web design Certification (300 hrs) @ FreeCodeCamp
+
+**Today's Progress**: Started the second challenge, a survey page.
+
+**Thoughts:** This one is slightly trickier but good practice adding classes and id's to the CSS for each div, label, input, etc. Not much of an update, mostly going back and reading through the previous challenges as I'm thinking I worked through them quite quickly. Have the basic setup done with the survey sitting central on the page and the input text and boxes in blocks. Should get the survey challenge completed tomorrow, at least enough to pass, but would like to also create another survey in VS Code which will look nicer, we'll see.
+
+**Link to course:** [FreeCodeCamp](http://www.freecodecamp.org/learn)
