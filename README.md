@@ -83,13 +83,15 @@ I saw Ernest Ranglin perform at Ronnie Scotts London 2009
 
 **Link to course:** [FreeCodeCamp](http://www.freecodecamp.org/learn)
 
-### Day 8: 30 April 2020
+### Days 8/9/10/11: 30 April 2020 - 3 May 2020
 
-##### Going back through the course! Resposive Web design Certification (300 hrs) @ FreeCodeCamp
+##### Going back through the course! Resposive Web design Certification (300 hrs) @ FreeCodeCamp using VS Code
 
-**Today's Progress**: Going back through the course.
+**Today's Progress**: last few days completed HTML & HTML5 and half way through CSS again...
 
-**Thoughts:** This one is slightly trickier but good practice adding classes and id's to the CSS for each div, label, input, etc. Not much of an update, mostly going back and reading through the previous challenges as I'm thinking I worked through them quite quickly. Have the basic setup done with the survey sitting central on the page and the input text and boxes in blocks. Should get the survey challenge completed tomorrow, at least enough to pass, but would like to also create another survey in VS Code which will look nicer, we'll see.
-Only had an hour today and have gone back to redo/skim through the course again.
+**Thoughts:** whilst completing the Survey challenge I realised that I wasn't able to recall all syntax and even if I could I wasn't creating work I was proud to put in my portfolio.
+I then decided to go through each challenge again but this time in VS Code which has not only given me more practice but has given me a holistic view of how everything works together.
+I wish I had done this from the start along side completing the challenges in the FreeCodeCamp browser for certification. It's certainly taking longer but definately worth it.
 
-**Link to course:** [FreeCodeCamp](http://www.freecodecamp.org/learn)
+**Links:** [FreeCodeCamp](http://www.freecodecamp.org/learn)
+[Visual Studio Code](https://code.visualstudio.com/)
