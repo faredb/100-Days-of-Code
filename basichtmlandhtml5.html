@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+
+</head>
+  
+  <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+  
+  <link rel="stylesheet" type="text/css" href="/basichtmlandhtml5.css">
+
+</head>
+
+<body>
+  <div>
+  <!-- adding a anchor link to section in page -->
+  <a href="#contact-header"
+    >Contact link thaT GOES TO THE BOTTOM OF PAGE (more or less) </a>
+  </div>
+  <div>
+  <!-- 1. Using tags, this case a h1 open and close -->
+  <h1>Hello</h1>
+  <!-- 2. using a h2 tag and added an ID(single use) color and padding-->
+  <h2 id="cat-photo-form">CatPhotoApp</h2>
+  <!-- using a p for paragraph -->
+  
+  <!-- h3 has its own font also a class with big padding -->
+  <h3 class="big-padding">This is a h3 text</h3>
+
+  <main>
+    <div class="silver-background">
+      <!-- adding an imag, also added multiple classes-->
+      <img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="This is a relaxing cat"
+      https://bit.ly/fcc-relaxing-cat><br />
+    </div>
+    <div>
+      <!-- adding an anchor element (link to outside content) -->
+      <a href="http://freecatphotoapp.com">
+        this links to cat photos in an A element
+      </a>
+    </div>
+
+    <div>
+      <!-- adding paragraphs -->
+      <p class="red-text">
+        Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching
+        attack your ankles chase the red dot, hairball run catnip eat the grass
+        sniff.
+      </p>
+    </div>
+    <div>
+      <!-- Adding a comment (also ctrl+/ in vscode -->
+      <p>
+        Purr jump eat the grass rip the couch scratched sunbathe, shed
+        everywhere rip the couch sleep in the sink fluffy fur catnip scratched.
+      </p>
+    </div>
+
+    <div>
+      <!-- nest an anchor element in a paragraph -->
+      <p>
+        here's a
+        <a target="_blank" href="http://freecodecamp.org"
+          >link to freecodecamp.org</a
+        >
+        ok?
+      </p>
+    </div>
+    <div>
+      <!-- adding a # to a href for a deadlink -->
+      <p>here is a <a href="#">deadlink</a></p>
+    </div>
+    <!-- here is a link in an image -->
+    <div>
+      <p>Here is a picture with a link</p>
+      <a href="#"
+        ><img src="https://bit.ly/fcc-running-cats" alt="running cats"
+      /></a>
+    </div>
+   
+    <!-- making an bulleted unordered list -->
+    <div>
+      <h3>here is a bulleted unordered link</h3>
+      <ul>
+        <li>this</li>
+        <li>is</li>
+        <li>a</li>
+        <li>list</li>
+      </ul>
+      <ul>
+        <li>another</li>
+        <li>in</li>
+        <li>same</li>
+        <li>div tag</li>
+      </ul>
+    </div>
+
+    <div>
+      <h2 id="contact-header">Contact link to here</h2>
+    </div>
+    <!-- here is a form element with a button and an action to send the input text to the URL in action via the button. also added "required" to the input text-->
+    <div>
+      <p>here is a text field where we send the input to /submit-cat-photo</p>
+        <!-- form action where to send -->
+        <form action="/submit-cat-photo">
+           <!--text imput box  -->
+        <input type="text" placeholder="This is the placeholder text" required>
+        <!-- submit button for the above -->
+        <button type="submit">This button submits the form</button><br> 
+        <!-- now some radio buttons. label for each answer also a name to group them together. Ive added Value attribute as when it gets sent to the server the value will be the answer flag (without it it would be ON). added CHECKED to the YES radio for default-->
+          <div>
+            <p>Yes or no?</p>
+            <label for="yes">
+              <input type="radio" value="Yes" name="yes-no-radio" checked>Yes
+            </label>
+            <label for="no">
+              <input type="radio" value="No" name="yes-no-radio">No
+            </label>
+          </div>
+
+          <!-- now for some checkboxes (checkbox), another input type, added CHECKED to the happy checkbox for default-->
+          <div>
+            <label for="happy">
+              <input type="checkbox" value="Happy" name="happy-sad-checkbox" checked>happy
+            </label>
+            <label for="sad">
+              <input type="checkbox" value="Sad" name="happy-sad-checkbox">sad
+            </label>
+          </div>
+        </form>
+    </div><br>  
+    <div class="box yellow-box">
+      <h5 class="box red-box">padding</h5>
+      <h5 class="box blue-box">padding</h5>
+    </div>
+
+  </main>
+
+</body>
+
+</html>

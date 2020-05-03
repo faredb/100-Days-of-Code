@@ -1,0 +1,84 @@
+/* the below is a CLASS declaration */
+.red-text {
+  color: red;
+}
+
+/* changes the h1 elements to 30px */
+h1 {
+  font-size: 30px;
+}
+
+/* set the h2 element's font to sans-serif */
+h2 {
+  font-family: sans-serif;
+}
+
+/* set the P element font to monospace */
+p {
+  font-family: monospace;
+}
+
+/* changed the h3 font to import google font loster and backup open sans(see html HEAD) */
+h3 {
+  font-family: lobster, monospace;
+}
+
+/* added a smaller image class */
+.smaller-image {
+  width: 100px;
+}
+
+/* added a thick green border class with a 50% radius to make a circle */
+.thick-green-border {
+  border-color: green;
+  border-width: 10px;
+  border-style: solid;
+  border-radius: 50%;
+}
+
+/* adding a silver background class */
+.silver-background {
+  background-color: silver;
+}
+
+/* added a ID (single use/unique) style to an element, also added padding*/
+#cat-photo-form {
+  background-color: green;
+  padding: 10px;
+}
+
+.big-padding {
+  margin: 50px;
+}
+
+/* taken from the challenges to play with the margins */
+.injected-text {
+  margin-bottom: -25px;
+  text-align: center;
+}
+
+.box {
+  border-style: solid;
+  border-color: black;
+  border-width: 5px;
+  text-align: center;
+}
+
+.yellow-box {
+  background-color: yellow;
+  padding: 10px;
+}
+
+.red-box {
+  background-color: crimson;
+  color: #fff;
+  padding: 20px;
+  margin: 5px;
+}
+
+.blue-box {
+  background-color: blue;
+  color: #fff;
+  padding: 20px;
+  margin: 5px;
+}
