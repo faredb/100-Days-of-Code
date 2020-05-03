@@ -82,3 +82,14 @@ I saw Ernest Ranglin perform at Ronnie Scotts London 2009
 **Thoughts:** This one is slightly trickier but good practice adding classes and id's to the CSS for each div, label, input, etc. Not much of an update, mostly going back and reading through the previous challenges as I'm thinking I worked through them quite quickly. Have the basic setup done with the survey sitting central on the page and the input text and boxes in blocks. Should get the survey challenge completed tomorrow, at least enough to pass, but would like to also create another survey in VS Code which will look nicer, we'll see.
 
 **Link to course:** [FreeCodeCamp](http://www.freecodecamp.org/learn)
+
+### Day 8: 30 April 2020
+
+##### Going back through the course! Resposive Web design Certification (300 hrs) @ FreeCodeCamp
+
+**Today's Progress**: Going back through the course.
+
+**Thoughts:** This one is slightly trickier but good practice adding classes and id's to the CSS for each div, label, input, etc. Not much of an update, mostly going back and reading through the previous challenges as I'm thinking I worked through them quite quickly. Have the basic setup done with the survey sitting central on the page and the input text and boxes in blocks. Should get the survey challenge completed tomorrow, at least enough to pass, but would like to also create another survey in VS Code which will look nicer, we'll see.
+Only had an hour today and have gone back to redo/skim through the course again.
+
+**Link to course:** [FreeCodeCamp](http://www.freecodecamp.org/learn)
