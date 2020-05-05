@@ -103,7 +103,7 @@ I wish I had done this from the start along side completing the challenges in th
 **Today's Progress**: Completed the second run-through of the CSS module and starting to think about the survey form challenge.
 
 **Thoughts:** Ive now completed the CSS module again, only this time in Visual Studio Code. It's great that I can get used to commenting as I go but also have examples of everything I have gone through with comments.
-I have started thinking about the survey form again. I have narrowed my survey ideas between a aqua blue to green gradient background with 2 floating white divs and a night image of a busy place (Jamel Efna) and a floating blurred background form.
+I have started thinking about the survey form again. I have narrowed my survey ideas between a aqua blue to green gradient background with 2 floating white divs and a night image of a busy place (Jamel Efna) and a floating blurred background form. I like the inputs that span the whole widths. Going to checkout how to add icons in the placeholders, if I cant find a way I will trying and wangle them in with positioning.
 I will run through the grid module again tomorrow and get cracking.
 Watched a fantastic video on youtube of Rachel Andrew, Editor in Chief of Smashing Magazine recreating a BBC News CSS layout live. I used to read Smashing Magazine guides and articles back in the day before I met my now wife and my hobbies were crushed, around the time CSS3 came out fully.
  
