@@ -96,7 +96,7 @@ I wish I had done this from the start along side completing the challenges in th
 **Links:** [FreeCodeCamp](http://www.freecodecamp.org/learn)
 [Visual Studio Code](https://code.visualstudio.com/)
 
-### Days 8/9/10/11: 4 May 2020
+### Day 12: 4 May 2020
 
 ##### Going back through the course! Resposive Web Design Certification (300 hrs) @ FreeCodeCamp using VS Code
 
