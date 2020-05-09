@@ -7,9 +7,9 @@ Welcome to my GitHub where I will log my journey through 100 Days Of Coding. I h
 </p>
                                                     
 ### Day 1: 23 April 2020
-##### Resposive Web design Certification (300 hrs) @ FreeCodeCamp
+##### Responsive Web design Certification (300 hrs) @ FreeCodeCamp
 
-**Today's Progress**: Completed the first two modules of Resposive Web design Certification - Basic HTML & HTML5 and Basic CSS.
+**Today's Progress**: Completed the first two modules of Responsive Web design Certification - Basic HTML & HTML5 and Basic CSS.
 
 **Thoughts:** Progressed through Basic HTML/HTML5 and CCS as I have previous experience with HTML and CSS2. I particularly enjoyed Classes vs IDs and CSS variables.
 
@@ -30,7 +30,7 @@ Welcome to my GitHub where I will log my journey through 100 Days Of Coding. I h
 
 ### Day 3: 25 April 2020
 
-##### Resposive Web design Certification (300 hrs) @ FreeCodeCamp
+##### Responsive Web design Certification (300 hrs) @ FreeCodeCamp
 
 **Today's Progress**: Currently working through Applied Visual Design.
 
@@ -40,7 +40,7 @@ Welcome to my GitHub where I will log my journey through 100 Days Of Coding. I h
 
 ### Day 4: 26 April 2020
 
-##### Resposive Web design Certification (300 hrs) @ FreeCodeCamp
+##### Responsive Web design Certification (300 hrs) @ FreeCodeCamp
 
 **Today's Progress**: Finished Applied Visual Design Module.
 
@@ -51,7 +51,7 @@ Was thinking about starting a page in GitHub Pages to practice on as I work thro
 
 ### Day 5: 27 April 2020
 
-##### Resposive Web design Certification (300 hrs) @ FreeCodeCamp
+##### Responsive Web design Certification (300 hrs) @ FreeCodeCamp
 
 **Today's Progress**: Applied Accessibility, Responsive Web Design Principles, Flexbox and Grid completed.
 
@@ -63,7 +63,7 @@ Looking forward to starting the projects tomorrow as I've seen they also consist
 
 ### Day 6: 28 April 2020
 
-##### Resposive Web design Certification (300 hrs) @ FreeCodeCamp
+##### Responsive Web design Certification (300 hrs) @ FreeCodeCamp
 
 **Today's Progress**: Completed the first challenge, a tribute page to Ernest Ranglin.
 
@@ -75,7 +75,7 @@ I saw Ernest Ranglin perform at Ronnie Scotts London 2009
 
 ### Day 7: 29 April 2020
 
-##### Daughter's Birthday! Resposive Web design Certification (300 hrs) @ FreeCodeCamp
+##### Daughter's Birthday! Responsive Web design Certification (300 hrs) @ FreeCodeCamp
 
 **Today's Progress**: Started the second challenge, a survey page.
 
@@ -85,7 +85,7 @@ I saw Ernest Ranglin perform at Ronnie Scotts London 2009
 
 ### Days 8/9/10/11: 30 April 2020 - 3 May 2020
 
-##### Going back through the course! Resposive Web design Certification (300 hrs) @ FreeCodeCamp using VS Code
+##### Going back through the course! Responsive Web design Certification (300 hrs) @ FreeCodeCamp using VS Code
 
 **Today's Progress**: last few days completed HTML & HTML5 and half way through CSS again...
 
@@ -98,7 +98,7 @@ I wish I had done this from the start along side completing the challenges in th
 
 ### Day 12: 4 May 2020
 
-##### Going back through the course! Resposive Web Design Certification (300 hrs) @ FreeCodeCamp using VS Code
+##### Going back through the course! Responsive Web Design Certification (300 hrs) @ FreeCodeCamp using VS Code
 
 **Today's Progress**: Completed the second run-through of the CSS module and starting to think about the survey form challenge.
 
@@ -106,8 +106,24 @@ I wish I had done this from the start along side completing the challenges in th
 I have started thinking about the survey form again. I have narrowed my survey ideas between a aqua blue to green gradient background with 2 floating white divs and a night image of a busy place (Jamel Efna) and a floating blurred background form. I like the inputs that span the whole widths. Going to checkout how to add icons in the placeholders, if I cant find a way I will trying and wangle them in with positioning.
 I will run through the grid module again tomorrow and get cracking.
 Watched a fantastic video on youtube of Rachel Andrew, Editor in Chief of Smashing Magazine recreating a BBC News CSS layout live. I used to read Smashing Magazine guides and articles back in the day before I met my now wife and my hobbies were crushed, around the time CSS3 came out fully.
- 
 
 **Links:** [FreeCodeCamp](http://www.freecodecamp.org/learn)
 [Visual Studio Code](https://code.visualstudio.com/)
 [Smashing Magazine](https://www.smashingmagazine.com/)
+
+### Day 17: 5-9 May 2020
+
+##### finished second run throught the course! Responsive Web Design Certification (300 hrs) @ FreeCodeCamp using VS Code
+
+**Today's Progress**: Completed the Survey Challenge!!
+
+**Thoughts:**
+I wasted a couple of days completing the survey challenge. I starting building both large photo background page and a gradient page I mentioned on day 12 before starting from scratch to practice using css grid.
+I have to remember, I dont want to be a designer, I dont want to make trendy looking websites. I want to create functional applications and am just brushing up on html/css before I head into JS, React, etc.
+I have learnt so much the last couple of days by just getting stuck in and building the page I had in mind first, then going through the user stories and editing IDs, labels, etc to match the brief.
+I have really enjoyed relying less on google searches and just typing out code.
+I'm not too happy with the resposiveness of the page so will spend tomorrow tidying that up. I watched a video this morning about using git from the terminal so have been practicing that today committing and pushing from the terminal instead of VS Code. I may have a look at Atom once i'm used to the git syntax which is keeping me tied to vscode. I've also published the site via github pages. I need to update this readme daily as I have forgotten most of my thoughts over the past few days. Font Awesome is quite good for on the fly icons, I used some icons from there (free sub) in the survey page.
+
+**Links:** [FreeCodeCamp](http://www.freecodecamp.org/learn)
+[Visual Studio Code](https://code.visualstudio.com/)
+[Font Awesome](https://fontawesome.com/)
