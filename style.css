@@ -4,10 +4,35 @@
   --dark: #333;
   --light: #fff;
   --shadow: 0 1px 5px rgba(104, 104, 104, 0.8);
-  --red: red;
+  --red: crimson;
 }
 
 input[type="text"] {
+  width: 100%;
+  border: solid;
+  border-color: #9fa8a3;
+
+  border-radius: 4px;
+  margin: 4px 0 4px 0;
+  outline: none;
+  padding: 10px;
+  box-sizing: border-box;
+}
+button {
+  width: 100%;
+  box-sizing: border-box;
+  background-color: var(--dark);
+  box-shadow: #9fa8a3;
+  margin: 4px 0 4px 0;
+  outline: none;
+  padding: 10px;
+  margin-top: 27px;
+  text-transform: uppercase;
+  border-radius: 4px;
+  border-style: hidden;
+  color: var(--light);
+}
+input[type="number"] {
   width: 100%;
   border: solid;
   border-color: #9fa8a3;
@@ -53,8 +78,8 @@ body {
 h1 {
   margin-top: 5;
   margin-bottom: 5;
-
 }
+
 h3 {
   margin-top: 0;
   margin-bottom: 0;
@@ -140,6 +165,11 @@ img {
   padding-left: 10px;
 }
 
+.survey p {
+  text-align: left;
+  padding-left: 10px;
+}
+
 .topbox {
   background: var(--primary);
   display: block;
@@ -157,17 +187,57 @@ img {
 .form {
   display: grid;
   padding: 10px;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-areas:
+    "inputname inputage inputmessage"
+    "inputemail inputgender inputmessage"
+    "inputcheckbox inputradio form-button";
   grid-gap: 10px;
+  text-align: left;
 }
-
-.form-textarea {
-  grid-column-start: 2;
-  grid-column-end: 4;
+.inputname {
+  grid-area: inputname;
+}
+.inputage {
+  grid-area: inputage;
+}
+.inputmessage {
+  grid-area: inputmessage;
+}
+.inputemail {
+  grid-area: inputemail;
+}
+.inputgender {
+  grid-area: inputgender;
+}
+.inputradio {
+  grid-area: inputradio;
+  display: inline-block;
 }
 .form-button {
-  grid-column-start: 1;
-  grid-column-end: 4;
+  grid-area: form-button;
+}
+textarea {
+  box-sizing: border-box;
+}
+.inputradio p {
+  margin-bottom: 0;
+}
+.inputcheckbox p {
+  margin-bottom: 0;
+  padding: 0;
+}
+
+#dropdown {
+  width: 100%;
+  border: solid;
+  border-color: #9fa8a3;
+  border-radius: 4px;
+  margin: 4px 0 4px 0;
+  outline: none;
+  padding: 10px;
+  box-sizing: border-box;
+  background-color: var(--light);
+  color: var(--dark);
 }
 
 .bookagain {
@@ -178,22 +248,37 @@ img {
   column-gap: 20px;
 }
 
-.box{
+.box {
   background: var(--primary);
   display: block;
   text-decoration: none;
   text-align: center;
   color: var(--dark);
   box-shadow: var(--shadow);
-  border-radius: 5px; 
+  border-radius: 5px;
   padding: 20px;
 }
 
 .btn:hover {
   background: var(--dark);
-  color: var(--red  ;
+  color: var(--red);
   padding: 0.6rem 1.3rem;
   text-decoration: none;
   border: 0;
   border-radius: 4px;
+}
+
+.dropdownsection p {
+  margin-bottom: 0px;
+  padding-left: 2px;
+  margin-top: 0px;
+}
+
+button:hover {
+  background-color: var(--light);
+  color: var(--dark);
+  text-transform: uppercase;
+}
+
+#submit {
 }

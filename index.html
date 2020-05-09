@@ -3,9 +3,10 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Survey</title>
+    <title id="title">Survey</title>
     <!-- free font service font awesome -->
     <script
+      https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js 
       src="https://kit.fontawesome.com/c531479f5f.js"
       crossorigin="anonymous"
     ></script>
@@ -28,49 +29,102 @@
       <!-- Container top -->
       <section class="container-top">
         <header class="form-header">
-          <h1>How did we do?</h1>
+          <h1 id="title">Survey - How did we do?</h1>
           <div class="survey">
-            <h3>Please complete this short survey for a chance to win <>.</h3>
-            <div class="form">
-              <div class="form-item">
-                <label></label>
-                <input type="text" name="name" placeholder="Full Name" />
-              </div>
-              <div class="form-item">
-                <label></label>
-                <input type="email" name="email" placeholder="Email address" />
-              </div>
-              <div class="form-item">
-                <label></label>
-                <input
-                  type="text"
-                  name="Number"
-                  placeholder="Telephone number"
-                />
-              </div>
-              <div class="form-item">
-                <label></label>
-                <input type="text" name="email" placeholder="checkboxes" />
-              </div>
-              <div class="form-textarea">
-                <label></label>
-                <textarea
-                  name="message"
-                  placeholder="Type your message here"
-                  rows="3"
-                ></textarea>
-              </div>
+            <p id="description">
+              Tell us about your recent travel for a chance to win
+              <a style="color: red;"> £1000.</a>
+            </p>
+            <form action="#" id="survey-form"></form>
+              
+              <div class="form">
+                
+                <div class="inputname" >
+                  <label id="name-label" >Name</label>
+                  <input type="text" name="name" placeholder="Full Name" />
+                </div>
+                
+                <div class="inputemail">
+                  <label id="email-label">Email</label>
+                  <input type="email" name="email" placeholder="Email address" />
+                </div>
+                
+                <div class="inputage">
+                  <label id="email-number" class="visuallyhidden">Age</label>
+                  <input
+                  type="number"
+                  name="number"
+                  placeholder="Age" min="12" max="60"/>
+                </div>
+                
+                <div class="inputcheckbox">
+                  <p>Why did you travel?</p>
+                 
+                  <label for="business">Business
+                  <input type="checkbox" value="business" name="business-pleasure" placeholder="checkboxes" />
+                  </label>
+                
+                  <label for="pleasure">Pleasure
+                  <input type="checkbox" value="pleasure"  name="business-pleasure" placeholder="checkboxes" />
+                  </label>
+                </div>
+                
+                <div class="inputradio">  
+                  <p>Where did you travel to?</p>
+                  <label for="africa">
+                    <input type="radio" id="africa" name="africa-asia"/>Africa
+                  </label>
+                
+                  <label for="asia">
+                    <input type="radio" id="asia" name="africa-asia"/>Asia
+                  </label>
+                
+                  <label for="europe">
+                    <input type="radio" id="europe" name="africa-asia"/>Europe
+                  </label>
+                
+                  <label for="america">
+                    <input type="radio" id="america" name="africa-asia"/>America
+                  </label>
+                </div>
 
-              <div class="form-button">
-                <button>Submit</button>
+                <div class="inputgender"><label>What are you?</label>
+                <select id="dropdown" name="dropdown">
+                  <option value="female">female</option>
+                  <option value="male">male</option>
+                </select>
+                </div>
+                
+                <div class="inputmessage">
+                  <label>Tell us more</label>
+                  <textarea
+                  name="message"
+                  placeholder="Type your message here" rows="7"
+                ></textarea>
+                </div>
+                
+                <div id="submit" class="form-button"><label></label>
+                  <button>Submit</button>
+                </div>
+              
+              
               </div>
-            </div>
+            <form>   
           </div>
         </header>
+
+
+
+
+
+
+
+
+
         <!-- Side Boxes -->
         <div class="topbox topbox-a">
           <h4>Claim a 10% discount</h4>
-          <a href="#" class="btn">Book Now</a>
+          <a href="#" class="btn">Book Again Now</a>
         </div>
         <div class="topbox topbox-b">
           <h4>Recommend Us</h4>
@@ -78,10 +132,18 @@
         </div>
       </section>
 
+
+
+
+
+
+
+
+
       <!-- Bottom hrizontal boxes section BookAgain section-->
       <section class="bookagain">
         <div class="box">
-          <i class="fas fa-plane fa-3x"></i>
+          <i class="fas fa-plane fa-2x"></i>
           <h3>Flights</h3>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro,
@@ -89,7 +151,7 @@
           </p>
         </div>
         <div class="box">
-          <i class="fas fa-hotel fa-3x"></i>
+          <i class="fas fa-hotel fa-2x"></i>
           <h3>Hotels</h3>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro,
@@ -97,7 +159,7 @@
           </p>
         </div>
         <div class="box">
-          <i class="fas fa-car fa-3x"></i>
+          <i class="fas fa-car fa-2x"></i>
           <h3>Car Hire</h3>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro,
