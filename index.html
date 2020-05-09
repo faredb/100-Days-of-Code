@@ -4,12 +4,112 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Survey</title>
+    <!-- free font service font awesome -->
     <script
       src="https://kit.fontawesome.com/c531479f5f.js"
       crossorigin="anonymous"
     ></script>
+    <link rel="stylesheet" href="style.css" />
   </head>
+
   <body>
-    <i class="fas fa-plane"></i>
+    <div class="wrapper">
+      <!-- Navbar -->
+      <nav class="main-nav">
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Flights</a></li>
+          <li><a href="#">Car Hire</a></li>
+          <li><a href="#">Insurance</a></li>
+          <li><a href="#">Contact us</a></li>
+        </ul>
+      </nav>
+
+      <!-- Container top -->
+      <section class="container-top">
+        <header class="form-header">
+          <h1>How did we do?</h1>
+          <div class="survey">
+            <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit</h3>
+            <div class="form">
+              <div class="leftform">
+                <p>
+                  <label></label>
+                  <input type="text" name="name" placeholder="Full Name" />
+                </p>
+                <p>
+                  <label></label>
+                  <input
+                    type="email"
+                    name="email"
+                    placeholder="Email address"
+                  />
+                </p>
+                <p>
+                  <label></label>
+                  <input type="text" name="email" />
+                </p>
+              </div>
+              <div class="rightform">
+                <p>
+                  <label></label>
+                  <input type="text" name="email" placeholder="checkboxes" />
+                </p>
+                <p>
+                  <label></label>
+                  <textarea
+                    name="message"
+                    placeholder="Type your message here"
+                    rows="3"
+                  ></textarea>
+                </p>
+              </div>
+              <div>
+                <p>
+                  <button>Submit</button>
+                </p>
+              </div>
+            </div>
+          </div>
+        </header>
+        <div class="topbox topbox-a">
+          <h4>Claim a 10% discount</h4>
+          <a href="#" class="btn">Book Now</a>
+        </div>
+        <div class="topbox topbox-b">
+          <h4>Recommend Us</h4>
+          <a href="#" class="btn">Share</a>
+        </div>
+      </section>
+
+      <!-- Bottom hrizontal boxes section BookAgain section-->
+      <section class="bookagain">
+        <div class="box">
+          <i class="fas fa-plane fa-3x"></i>
+          <h3>Flights</h3>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro,
+            magnam.
+          </p>
+        </div>
+        <div class="box">
+          <i class="fas fa-hotel fa-3x"></i>
+          <h3>Hotels</h3>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro,
+            magnam.
+          </p>
+        </div>
+        <div class="box">
+          <i class="fas fa-car fa-3x"></i>
+          <h3>Car Hire</h3>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro,
+            magnam.
+          </p>
+        </div>
+      </section>
+    </div>
+    <!-- end of wrapper -->
   </body>
 </html>
