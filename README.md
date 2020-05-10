@@ -127,3 +127,26 @@ I'm not too happy with the resposiveness of the page so will spend tomorrow tidy
 **Links:** [FreeCodeCamp](http://www.freecodecamp.org/learn)
 [Visual Studio Code](https://code.visualstudio.com/)
 [Font Awesome](https://fontawesome.com/)
+
+### Day 18: 10 May 2020
+
+##### Responsive Web Design Certification (300 hrs) @ FreeCodeCamp using VS Code
+
+**Today's Progress**: Made the survey page responsive, checked out Atom, Git from terminal!!
+
+**Thoughts:**
+Another great day. 
+
+Finished the survey page with responsive layouts for PC, tablet and phone. Quite easy once you get the hang of the @media queries. Big question now is whether to code for mobile then add media queries for larger screens or other way around? I'm thinking mobile first, I'll give mobile first a go on the next challenge...
+
+I've also switched between chrome and firefox developer modes. Chrome is my default but I really like the firefox grid fuctionality in the layouts tab. I used Atom today, kept pressing tab (vscode) when choosing intellisense when it should have been enter, could probably fix in settings but didnt, just wound myself up all day.
+
+I watched a video about @media variables using $tablet for example, turns out this is sass only.
+
+Still happy with Git in the terminal (although it seems easier in VS Code). From tomorrow's new challenge I have decided to work in sections, first initial commit of the files, then Git branches of each section - nav, sidebar, main, footer, CSS. I will merge each to the master when happy. I also want to not only work mobile first but try coding the media queries as I complete each section before committing. I think this will be good practice.
+
+I'm so excited I want to start the next challenge tonight. BTW - there are loads of cafe/pub/bar background crowd sounds on spotify and youtube for those self isolating.
+
+**Links:** [FreeCodeCamp](http://www.freecodecamp.org/learn)
+[Visual Studio Code](https://code.visualstudio.com/)
+[Atom](https://atom.io/)
