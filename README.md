@@ -147,3 +147,7 @@ I'm so excited I want to start the next challenge tonight. BTW - there are loads
 **Links:** [FreeCodeCamp](http://www.freecodecamp.org/learn)
 [Visual Studio Code](https://code.visualstudio.com/)
 [Atom](https://atom.io/)
+
+****************Completed Responsive Web Design Course ***************
+Screenshot_2020-07-25 freeCodeCamp org.png
+
